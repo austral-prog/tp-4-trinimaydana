@@ -29,7 +29,5 @@ def line():
     print(f"\tP2 {P2}\n")
 
     print(f"La distancia entre ellos es: {distancia}")
-    
 
-    print(f"La distancia entre ellos es: {distancia}")
     
